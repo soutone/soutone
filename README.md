@@ -7,6 +7,6 @@ Physicist by training (University of Amsterdam, University of Minho). One of my 
 - [AI adoption playbook](https://soutolabs.fly.dev/playbook/): how to roll out AI across a company, in nine short chapters
 - [now-next-methodology](https://github.com/soutone/now-next-methodology): keeps AI coding assistants on track across sessions
 - [knowledge_hunter](https://github.com/soutone/knowledge_hunter): turns documentation into context for LLMs
-- [lrs-dashboard](https://github.com/soutone/lrs-dashboard): a database of lunar regolith simulants
+- [lrs-dashboard](https://github.com/roperete/lrs-dashboard): a database of lunar regolith simulants, which I contribute to
 
 More at [soutolabs.fly.dev](https://soutolabs.fly.dev) · [LinkedIn](https://www.linkedin.com/in/andresoutocampos/)
