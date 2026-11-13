@@ -1,6 +1,8 @@
 # André Souto Campos
 
-Physicist by training, explorer by nature: a *work in progress*. Lately a lot of my time goes into AI, helping people get real use out of it and building small tools and agents.
+Physicist by training, explorer by nature: a *work in progress*. 
+
+Lately a lot of my time goes into AI, helping people get real use out of it and building small tools and agents.
 
 Before that: edible metamaterials (one of my papers 3D-printed chocolate to engineer how it cracks, [Soft Matter, 2022](https://pubs.rsc.org/en/Content/ArticleLanding/2022/SM/D1SM01761F)) and graphene plasmonics, at the University of Amsterdam and the University of Minho.
 
